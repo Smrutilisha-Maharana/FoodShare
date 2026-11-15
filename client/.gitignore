@@ -19,7 +19,7 @@ lerna-debug.log*
 
 # Build files
 dist/
-dist-ssr/
+**/dist/
 
 # Local files
 *.local
